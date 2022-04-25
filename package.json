@@ -1,0 +1,11 @@
+{
+  "name": "worm_wars",
+  "version": "1.0.0",
+  "description": "Snake, but better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zgoodz + rom247",
+  "license": "UNLICENSED"
+}
